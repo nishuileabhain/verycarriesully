@@ -72,7 +72,7 @@ class Heady extends HTMLElement {
                               <a href="contact.html" class="hvr-sweep-to-bottom"><i class="bi bi-pencil-fill" aria-hidden="true"></i><span>contact</span></a>
                           </li>
                           <li class="col-6 col-sm-3  ui-menu-color-download list-inline-item menuitem">
-                              <a href="media\carriesullybio.pdf"  target="_blank" class="hvr-sweep-to-bottom"><i class="bi bi-file-arrow-down-fill" aria-hidden="true"></i><span>download</span></a>
+                              <a href="download.html" class="hvr-sweep-to-bottom"><i class="bi bi-file-arrow-down-fill" aria-hidden="true"></i><span>download</span></a>
                           </li>
                       </ul>
                   </div>
